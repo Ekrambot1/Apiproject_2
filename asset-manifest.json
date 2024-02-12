@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Apiproject_2/static/css/main.0384b895.css",
+    "main.js": "/Apiproject_2/static/js/main.0d385542.js",
+    "index.html": "/Apiproject_2/index.html",
+    "main.0384b895.css.map": "/Apiproject_2/static/css/main.0384b895.css.map",
+    "main.0d385542.js.map": "/Apiproject_2/static/js/main.0d385542.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0384b895.css",
+    "static/js/main.0d385542.js"
+  ]
+}
